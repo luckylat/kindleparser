@@ -1,4 +1,4 @@
-# Kindle XML Perser
+# Kindle XML Parser
 
 ## What is this
 
