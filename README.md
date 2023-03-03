@@ -26,5 +26,5 @@ You will get output.csv
 
 ## FAQ
 
-### output.csv causes garbled characters
+### output.csv causes garbled characters in Excel
 output.csv hasn't BOM, so it is correct behavior.
